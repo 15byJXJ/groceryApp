@@ -62,8 +62,11 @@
 * Settings screen -> home screen
 
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+[Add picture of your hand sketched wireframes in this section]<br>
+<img width="504" alt="image" src="https://user-images.githubusercontent.com/88021887/197424936-5b04705e-6f48-4c2a-89c8-f12b1e195eac.png"><br>
+<img width="514" alt="image" src="https://user-images.githubusercontent.com/88021887/197424951-961ac706-cfdc-45d1-bafc-92794a055457.png"><br>
+<img width="406" alt="image" src="https://user-images.githubusercontent.com/88021887/197424964-b0c97d47-87ff-4934-8c78-c78c882cb282.png"><br>
+
 
 ### [BONUS] Digital Wireframes & Mockups
 
@@ -71,9 +74,11 @@
 
 ## Schema 
 [This section will be completed in Unit 9]
-### Models
-[Add table of models]
+### Models<br>
+<img width="716" alt="image" src="https://user-images.githubusercontent.com/88021887/197425118-f98cbf37-6821-45bb-98ec-481d62481e4c.png"><br>
+
 ### Networking
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+- New Ingredient Page
+ - (Create/POST) Create a new ingredient entry
+- My Groceries Page
+ - (Read/GET) Query ingredient entries

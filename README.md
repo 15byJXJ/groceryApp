@@ -25,7 +25,7 @@
 
 **Required Must-have Stories**
 
-* User logs in to access their data
+* [x] User logs in to access their data
 * User can enter the name and attach an image of the item
 * Settings (Notifications, General, Language, etc)
 
@@ -83,5 +83,10 @@
 - My Groceries Page
  - (Read/GET) Query ingredient entries
 
+### Sprint 1 Build Progress
+
+<img src="https://i.imgur.com/ECXKcrz.gif" title="Sprint 1 build walkthrough" width="" alt="Sprint 1 video walkthrough"/>
+
 ### Special thanks to:
-<a href="https://www.flaticon.com/free-icons/food" title="food icons">Food icons created by Smashicons - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/food" title="food icons">Food icons created by Smashicons - Flaticon</a><br>
+<a href="https://www.fontspace.com/sunny-spells-font-f68393" title="font">Font created by Niskala Huruf - FontSpace</a>

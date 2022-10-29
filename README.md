@@ -82,3 +82,6 @@
  - (Create/POST) Create a new ingredient entry
 - My Groceries Page
  - (Read/GET) Query ingredient entries
+
+### Special thanks to:
+<a href="https://www.flaticon.com/free-icons/food" title="food icons">Food icons created by Smashicons - Flaticon</a>

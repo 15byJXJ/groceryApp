@@ -16,7 +16,7 @@
 - **Mobile:** iOS mobile app
 - **Story:** Stop throwing away your money. Put your groceries to use before they go bad!
 - **Market:** Any individual can use our app.
-- **Habit:** It would work better for the users to use the app as often as necessary so they can keep track of all their groceries.
+- **Habit:** It would work better for the users to use the app as often as necessary so they can keep track of all of their groceries.
 - **Scope:** The basic version of our app would allow users to input the best by date of all their groceries and will alert the user to use the groceries before they go bad. If possible, we would like to add additional features. Features such as barcode scanning for easy addition of new items, create a recipe database that pushes recipes that match users ingredients, additionally allows users to search for recipes based on the ingredients they have, and users can also add their own recipes and share them with other users if they want to.
 
 ## Product Spec

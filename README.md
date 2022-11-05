@@ -8,7 +8,7 @@
 
 ## Overview
 ### Description
-[Description of your app]
+A grocery tracking app reminds users of forgotten produce in their fridge destined for the GarbageLand. SAY NO TO FOOD WASTE 💪😎
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
@@ -82,6 +82,10 @@
  - (Create/POST) Create a new ingredient entry
 - My Groceries Page
  - (Read/GET) Query ingredient entries
+
+### Sprint 2 Build Progress
+
+<img src="https://i.imgur.com/YQHc0lZ.gif" title="Sprint 2 build walkthrough" width="" alt="Sprint 2 video walkthrough"/>
 
 ### Sprint 1 Build Progress
 

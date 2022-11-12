@@ -83,6 +83,10 @@ A grocery tracking app reminds users of forgotten produce in their fridge destin
 - My Groceries Page
  - (Read/GET) Query ingredient entries
 
+### Sprint 3 Build Progress
+
+<img src="https://i.imgur.com/RxvkRdR.gif" title="Sprint 3 build walkthrough" width="" alt="Sprint 2 video walkthrough"/>
+
 ### Sprint 2 Build Progress
 
 <img src="https://i.imgur.com/YQHc0lZ.gif" title="Sprint 2 build walkthrough" width="" alt="Sprint 2 video walkthrough"/>

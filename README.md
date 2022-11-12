@@ -26,8 +26,8 @@ A grocery tracking app reminds users of forgotten produce in their fridge destin
 **Required Must-have Stories**
 
 * [x] User logs in to access their data
-* User can enter the name and attach an image of the item
-* Settings (Notifications, General, Language, etc)
+* [x] User can enter the name and attach an image of the item
+* [x] Settings (Notifications, General, Language, etc)
 
 
 **Optional Nice-to-have Stories**

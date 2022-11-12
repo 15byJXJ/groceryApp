@@ -21,6 +21,7 @@
 		C8576B1C290C369D0087FAA8 /* groceryAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8576B1B290C369D0087FAA8 /* groceryAppUITestsLaunchTests.swift */; };
 		C8576B29290C4C060087FAA8 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8576B28290C4C060087FAA8 /* LoginViewController.swift */; };
 		C8814CC3291610AC003B9732 /* AddItemViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8814CC2291610AC003B9732 /* AddItemViewController.swift */; };
+		C8C75471291F6E0A00FFE0C8 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8C75470291F6E0A00FFE0C8 /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -64,6 +65,7 @@
 		C8576B1B290C369D0087FAA8 /* groceryAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = groceryAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		C8576B28290C4C060087FAA8 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		C8814CC2291610AC003B9732 /* AddItemViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddItemViewController.swift; sourceTree = "<group>"; };
+		C8C75470291F6E0A00FFE0C8 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		DA3302166EA45FE23C37BA14 /* Pods-groceryApp-groceryAppUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-groceryApp-groceryAppUITests.release.xcconfig"; path = "Target Support Files/Pods-groceryApp-groceryAppUITests/Pods-groceryApp-groceryAppUITests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -152,6 +154,7 @@
 				C8576B28290C4C060087FAA8 /* LoginViewController.swift */,
 				C8512AEE290C6E7100690263 /* FeedViewController.swift */,
 				C8814CC2291610AC003B9732 /* AddItemViewController.swift */,
+				C8C75470291F6E0A00FFE0C8 /* SettingsViewController.swift */,
 			);
 			path = groceryApp;
 			sourceTree = "<group>";
@@ -417,6 +420,7 @@
 				C8576AF9290C369A0087FAA8 /* AppDelegate.swift in Sources */,
 				C8512AEF290C6E7100690263 /* FeedViewController.swift in Sources */,
 				C8576AFB290C369A0087FAA8 /* SceneDelegate.swift in Sources */,
+				C8C75471291F6E0A00FFE0C8 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

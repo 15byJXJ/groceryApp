@@ -210,13 +210,13 @@
                                     <action selector="onBack:" destination="sBt-pk-T5Z" eventType="touchUpInside" id="Cec-L4-fJP"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="Language" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="k2n-4B-HXa">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Language" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="k2n-4B-HXa">
                                 <rect key="frame" x="20" y="214" width="76" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="Notifications" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="5vs-Kf-0fw">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Notifications" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="5vs-Kf-0fw">
                                 <rect key="frame" x="20" y="290" width="96" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
@@ -252,7 +252,7 @@
                                     <action selector="onLogout:" destination="sBt-pk-T5Z" eventType="touchUpInside" id="jaB-ac-rH1"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="Region" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="GbN-oO-Z11">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Region" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="GbN-oO-Z11">
                                 <rect key="frame" x="20" y="150" width="53" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
@@ -265,8 +265,11 @@
                             <constraint firstItem="MyX-gv-9xj" firstAttribute="top" secondItem="l13-T1-rgo" secondAttribute="top" constant="30" id="5a2-aR-F13"/>
                             <constraint firstItem="Dhf-FT-aA9" firstAttribute="top" secondItem="vdi-Iw-HRz" secondAttribute="bottom" constant="30" id="EhH-o3-GZz"/>
                             <constraint firstItem="l13-T1-rgo" firstAttribute="trailing" secondItem="vdi-Iw-HRz" secondAttribute="trailing" constant="20" id="H2Y-n2-jte"/>
+                            <constraint firstItem="5vs-Kf-0fw" firstAttribute="top" secondItem="k2n-4B-HXa" secondAttribute="bottom" constant="55" id="L5U-yG-x5R"/>
+                            <constraint firstItem="GbN-oO-Z11" firstAttribute="top" secondItem="MyX-gv-9xj" secondAttribute="bottom" constant="37" id="PNv-Ee-Ydl"/>
                             <constraint firstItem="l13-T1-rgo" firstAttribute="trailing" secondItem="12q-49-1dE" secondAttribute="trailing" constant="20" id="VFb-Y0-op0"/>
                             <constraint firstItem="k2n-4B-HXa" firstAttribute="leading" secondItem="l13-T1-rgo" secondAttribute="leading" constant="20" id="Vnu-oK-bl9"/>
+                            <constraint firstItem="k2n-4B-HXa" firstAttribute="top" secondItem="GbN-oO-Z11" secondAttribute="bottom" constant="43" id="ZXp-ZI-yIX"/>
                             <constraint firstItem="5vs-Kf-0fw" firstAttribute="leading" secondItem="l13-T1-rgo" secondAttribute="leading" constant="20" id="bXX-Pr-XoK"/>
                             <constraint firstItem="MyX-gv-9xj" firstAttribute="leading" secondItem="l13-T1-rgo" secondAttribute="leading" constant="20" id="ghM-3A-nYt"/>
                             <constraint firstItem="12q-49-1dE" firstAttribute="top" secondItem="l13-T1-rgo" secondAttribute="top" constant="30" id="hBI-VW-gOt"/>
